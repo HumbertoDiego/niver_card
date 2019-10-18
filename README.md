@@ -1,6 +1,15 @@
 # niver_card: Gerador de cartão com a lista de aniversariantes do mês
 
+## Requisitos:
+
+Python 2.7+
+
+PIL 6.1+
+
 ## Execução no terminal:
+
+### Para salvar a imagem
+
 $ python niver_card.py --save
 
 ### Para montar sua lista execute:
